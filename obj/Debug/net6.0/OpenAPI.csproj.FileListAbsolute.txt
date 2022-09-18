@@ -1,0 +1,15 @@
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.csproj.AssemblyReference.cache
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.AssemblyInfoInputs.cache
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.AssemblyInfo.cs
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.csproj.CoreCompileInputs.cache
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\bin\Debug\net6.0\OpenAPI.exe
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\bin\Debug\net6.0\OpenAPI.deps.json
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\bin\Debug\net6.0\OpenAPI.runtimeconfig.json
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\bin\Debug\net6.0\OpenAPI.dll
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\bin\Debug\net6.0\OpenAPI.pdb
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.dll
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\refint\OpenAPI.dll
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.pdb
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\OpenAPI.genruntimeconfig.cache
+C:\Users\82104\Desktop\류혜정\1. 학교\22-2\졸프2\OpenAPI\obj\Debug\net6.0\ref\OpenAPI.dll
